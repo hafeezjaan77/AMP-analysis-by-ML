@@ -1,1 +1,1 @@
-# AMP-anlysis-by-ML
+# AMP-analysis-by-ML
